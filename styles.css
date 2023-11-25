@@ -13,3 +13,19 @@ body {
 .text {
     padding-top: 300px;
 }
+
+img  {
+    width: 50px;
+    padding-top: 20px;
+    
+}
+
+.img-thumbnail {
+    width: 500px;
+    padding-top: 5px;
+    border-radius: 5%;
+}
+.texto {
+    text-align: justify;
+}
+

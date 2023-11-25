@@ -38,20 +38,68 @@
 
  <!-- fin barra de navegacion -->
 
+
  <div class="container text-center">
   <div class="row row-cols-2">
     
-    <div class="col-md -6"><img src="profile-pic-2.png" class="img rounded float-end"  alt=""></div>
+    <div class="col-md -6"><img src="assets/profile-pic-2.png" class="img rounded float-end"  alt=""></div>
     <div class="col-md -6">
       <p class="text">Hello, i'm</p>
       <h1>Duvan Monroy</h1>
       <h3>Frontend Developer</h3>
-      <button type="button" class="btn btn-primary btn-lg">Download cv</button>
-<button type="button" class="btn btn-secondary btn-lg">Contact info</button>
+      <button type="button" class="btn btn-light btn-lg" disabled>Download cv</button>
+      <button type="button" class="btn btn-dark btn-lg">Contact info</button><br>
+
+      <a href="https://www.linkedin.com/in/duvan-monroy-195005276/"><img src="assets/linkedin.png" alt=""></a>
+      <a href="https://github.com/dmonroy27"><img src="assets/github.png" alt=""></a>
+
        
+     </div>
   </div>
+</div><br><br><br><br><br><br>
+
+<!-- inicio sesion about -->
+<div class="container text-center">
+  <div class="row row-cols-2">
+    <div class="col-md -8">
+    <img src="assets/about-pic.png" class="img-thumbnail" alt="">
+    </div>
+
+    <div class="col-md -4">
+    <div class="row">
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Experience</h5>
+        <p class="card-text">1+ years frontend development.</p>
+        
+      </div>
+    </div>
   </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Education</h5>
+        <p class="card-text"> centro agroempresarial y desarrollo pecuario del huila SENA.</p>
+        
+      </div>
+    </div>
+  </div>
+</div><br><br><br><br><br>
+<p class="texto">Duvan, un estudiante de desarrollo web, me sumerg diariamente en el fascinante mundo de la creación digital. Entre líneas de código y diseños responsivos, encuentra su pasión. Su jornada consiste en explorar nuevas tecnologías, desde frameworks populares hasta las últimas tendencias en diseño UX/UI. Participa activamente en proyectos colaborativos, donde no solo perfecciona sus habilidades técnicas, sino también su capacidad para trabajar en equipo. Para Laura, cada desafío de desarrollo es una oportunidad para aprender y mejorar. Su carácter curioso y su dedicación la convierten en una estudiante prometedora en el campo del desarrollo web.</p>
+    </div>
+    
+    
+  </div>
+  
 </div>
+
+<!-- fin sesion about -->
+
+
+
+
+
 
 
 
