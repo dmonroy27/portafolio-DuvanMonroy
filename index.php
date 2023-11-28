@@ -59,6 +59,8 @@
 </div><br><br><br><br><br><br>
 
 <!-- inicio sesion about -->
+<center><p>Get To Know More</p></center>
+<center><h1>About Me</h1></center><br><br><br><br>
 <div class="container text-center">
   <div class="row row-cols-2">
     <div class="col-md -8">
@@ -80,13 +82,13 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Education</h5>
-        <p class="card-text"> centro agroempresarial y desarrollo pecuario del huila SENA.</p>
+        <p class="card-text">Software .</p>
         
       </div>
     </div>
   </div>
 </div><br><br><br><br><br>
-<p class="texto">Duvan, un estudiante de desarrollo web, me sumerg diariamente en el fascinante mundo de la creación digital. Entre líneas de código y diseños responsivos, encuentra su pasión. Su jornada consiste en explorar nuevas tecnologías, desde frameworks populares hasta las últimas tendencias en diseño UX/UI. Participa activamente en proyectos colaborativos, donde no solo perfecciona sus habilidades técnicas, sino también su capacidad para trabajar en equipo. Para Laura, cada desafío de desarrollo es una oportunidad para aprender y mejorar. Su carácter curioso y su dedicación la convierten en una estudiante prometedora en el campo del desarrollo web.</p>
+<p class="texto">Duvan, un estudiante de desarrollo web, me preparo diariamente en el fascinante mundo de la creación digital. Entre líneas de código y diseños responsivos, encuentra su pasión. Su jornada consiste en explorar nuevas tecnologías, desde frameworks populares hasta las últimas tendencias en diseño UX/UI. Participa activamente en proyectos colaborativos, donde no solo perfecciona sus habilidades técnicas, sino también su capacidad para trabajar en equipo. Para Laura, cada desafío de desarrollo es una oportunidad para aprender y mejorar. Su carácter curioso y su dedicación la convierten en una estudiante prometedora en el campo del desarrollo web.</p>
     </div>
     
     
