@@ -1,7 +1,7 @@
 /* tipografia */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
 
-body {
+*{
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,18 +14,10 @@ body {
     padding-top: 300px;
 }
 
-img  {
-    width: 50px;
-    padding-top: 20px;
-    
-}
-
 .img-thumbnail {
-    width: 500px;
+    width: 450px;
     padding-top: 5px;
     border-radius: 5%;
 }
-.texto {
-    text-align: justify;
-}
+
 
